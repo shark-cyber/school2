@@ -1,0 +1,124 @@
+
+body {
+    
+    text-align: center;
+}
+
+
+
+#campuslife {
+    
+    height: 400px;
+    color: aquamarine;
+    bottom:0;
+    display: table;
+    width: 100%;
+    background: linear-gradient(#53B8DF 0%, #270870 100%);
+    z-index: 9;
+    
+
+}
+
+.parallax-inner {
+    display: table-cell;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+}
+
+h1 {
+    font-size: 40px;
+    line-height: 1.2;
+    font-family: monospace;
+    font-weight: 300;
+}
+
+#name {
+    font-size: 30px;
+    font-weight: 100;
+    line-height: 1.2;
+    font-family: 'Cinzel Decorative', cursive;
+}
+
+h2 {
+    font-size: 30px;
+    line-height: 1.2;
+    font-family: monospace;
+    font-weight: 300;
+}
+
+
+
+
+
+
+
+html {
+    scroll-behavior: smooth;
+}
+
+a {
+    text-decoration: none;
+}
+
+.links:hover {
+    background-color: aquamarine;
+    text-decoration: underline;
+    font-size: 25px;
+}
+
+#bio {
+    background: linear-gradient(#270870 0%, #000000 100%);
+    padding:50px;
+}
+
+#w {
+    color: aliceblue;
+}
+
+article.hover {
+    color: darkturquoise;
+}
+
+#achievments a {
+    text-shadow: none !important;
+    text-decoration: none !important;
+    color: cadetblue !important;
+    
+}
+achievments{background-color:darkcyan;}
+
+
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+
+input {
+    background: grey;
+}
+#whatsnew {
+    
+    background-color: darkblue;
+}
